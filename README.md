@@ -1,10 +1,18 @@
-<!-- Animated typing header -->
+<!-- Animated typing header — clicking it opens the portfolio -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Purva+Borse;Full-Stack+Developer;AI+%26+Cloud+Enthusiast;MS+%40+Northeastern+University;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
+  <a href="https://psbportfolio.netlify.app/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Purva+Borse;Full-Stack+Developer;AI+%26+Cloud+Enthusiast;MS+%40+Northeastern+University;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
   <i>Driven by curiosity and a love for building — designing full-stack systems where solid engineering meets intuitive user experience.</i>
+</p>
+
+<p align="center">
+  <a href="https://psbportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20%20Visit%20My%20Portfolio-psbportfolio.netlify.app-0e75b6?style=for-the-badge" alt="Portfolio" />
+  </a>
 </p>
 
 <p align="center">
