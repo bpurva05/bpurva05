@@ -6,10 +6,6 @@
 </p>
 
 <p align="center">
-  <i>Driven by curiosity and a love for building — designing full-stack systems where solid engineering meets intuitive user experience.</i>
-</p>
-
-<p align="center">
   <a href="https://psbportfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20%20Visit%20My%20Portfolio-psbportfolio.netlify.app-0e75b6?style=for-the-badge" alt="Portfolio" />
   </a>
